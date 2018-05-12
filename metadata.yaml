@@ -1,0 +1,29 @@
+_repo: The-Children-of-Westminster-AbbeyStudies-in-English-History_32955
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32955-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Kingsley, Rose Georgina
+    alias: Kingsley, Rose G. (Rose Georgiana)
+    birthdate: 1845
+    deathdate: 1925
+    gutenberg_agent_id: '36126'
+    url: http://www.gutenberg.org/2009/agents/36126
+description: ''
+gutenberg_issued: '2010-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32955'
+  lccn: 08019501
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Westminster Abbey -- Biography'
+- !lcsh 'Children -- England -- London'
+title: 'The Children of Westminster Abbey: Studies in English History'
+url: http://www.gutenberg.org/ebooks/32955
